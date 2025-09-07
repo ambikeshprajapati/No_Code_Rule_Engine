@@ -1,6 +1,7 @@
 import streamlit as st
 import requests
 
+
 BASE_URL = "http://localhost:8000"
 
 st.set_page_config(page_title="Rule Builder", layout="centered")
@@ -85,4 +86,5 @@ if st.button("Evaluate Record"):
 # # Show existing variables
 # st.subheader("Available Variables")
 # # vars_res = requests.get(f"{BASE_URL}/variables").json()
+
 # st.write(vars_res["variables"])
