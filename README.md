@@ -5,6 +5,19 @@ Rules are stored in **SQL Server (SSMS)** and managed via a **FastAPI backend** 
 
 ---
 
+## 📸 Sample Screenshots
+
+### Create New Rule
+<img src="samples/create_rule.png" alt="Create Rule" width="600"/>
+
+### Manage Rules (Edit / Delete)
+<img src="samples/manage_rule.png" alt="Manage Rules" width="600"/>
+
+### Test Rule
+<img src="samples/test_rule.png" alt="Test Rule" width="600"/>
+
+---
+
 ## 🚀 Features
 - Create rules with multiple conditions.  
 - Store, update, and delete rules in **SQL Server**.  
@@ -96,18 +109,6 @@ streamlit run ui.py
 
 ---
 
-## 📸 Sample Screenshots
-
-### Create New Rule
-![Create Rule](samples/create_rule.png)
-
-### Manage Rules (Edit / Delete)
-![Manage Rules](samples/manage_rules.png)
-
-### Test Rule
-![Test Rule](samples/test_rules.png)
-
----
 
 ## 📌 Requirements
 - Python **3.9+**  
