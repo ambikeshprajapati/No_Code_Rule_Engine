@@ -96,6 +96,19 @@ streamlit run ui.py
 
 ---
 
+## 📸 Sample Screenshots
+
+### Create New Rule
+![Create Rule](samples/create_rule.png)
+
+### Manage Rules (Edit / Delete)
+![Manage Rules](samples/manage_rules.png)
+
+### Test Rule
+![Test Rule](samples/test_rules.png)
+
+---
+
 ## 📌 Requirements
 - Python **3.9+**  
 - SQL Server (local or remote instance)  
